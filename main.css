@@ -30,11 +30,20 @@ body {
 .w90 {
     width: 90px;
 }
+.h120 {
+    height: 120px;
+}
+.w170 {
+    width: 170px;
+}
 .bqColDeep {
     background-color: #102b3e;
 }
 .bqColLt {
     background-color: #ced8e1;
+}
+.bgColFist {
+    background-color: #3ac6ea;
 }
 .brdr {
     border: 1px solid #84a7b3;
